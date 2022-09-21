@@ -3,7 +3,7 @@ body {
     font-family: 'Roboto', sans-serif;  
 }
 .header1 {
-    background-color: blueviolet;
+    background-color: rgb(189, 52, 52);
     color: rgb(255, 255, 255);
     padding: 20px 0;
     font-size: 1.5rem;
@@ -84,13 +84,13 @@ p  {
 
 .contact-me-btn {
     color: white;
-    border-color: rgb(26, 23, 23);
+    border-color: rgb(255, 255, 255);
 }
 table {
     border-collapse: collapse;
 }
 th, td {
-    border: 1px solid black;
+    border: 1px solid rgb(255, 255, 255);
     text-align: center;
     padding: 10px;
 }

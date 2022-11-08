@@ -5,7 +5,7 @@ body {
     margin: 0;
     min-height: 100vh;
     position: relative;
-    background-color:rgb(175, 222, 238);
+    background-color:rgb(255, 255, 255);
     
 }
 
@@ -16,17 +16,17 @@ body::after {
 }
 
 .header {
-    background-color:rgb(144, 171, 238);
+    background-color:rgb(0, 0, 0);
     padding: 1rem 0;
-    border-bottom: 5px solid rgb(0, 149, 255);
+    border-bottom: 5px solid rgb(128, 128, 128);
     position: sticky;
     top: 0;
 }
 
 .footer {
-    background-color: rgb(144, 171, 238);
+    background-color: rgb(0, 0, 0);
     padding: 1rem 0;
-    border-top: 5px solid rgb(0, 149, 255);
+    border-top: 5px solid rgb(128, 128, 128);
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -45,7 +45,7 @@ body::after {
 }
 .main-menu ul li a {
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
     text-transform: uppercase;
     font-weight: bold;
 }
@@ -62,7 +62,7 @@ body::after {
 
 .profile a {
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
     text-transform: uppercase;
     font-weight: bold;
 }
@@ -85,10 +85,10 @@ body::after {
     display: flex;
     height: 22rem;
     width: 31rem;
-    border: 2px solid rgb(0, 149, 255);
+    border: 2px solid rgb(0, 0, 0);
     border-radius: 5px;
     
-    background-color: rgb(240,240,240);
+    background-color: rgb(255, 255, 255);
 }
 
 .product-image {
@@ -125,7 +125,7 @@ body::after {
 
 .product-details .btn {
     font-size: 1rem;
-    color:rgb(20, 43, 220);
+    color:rgb(255, 255, 255);
     border-radius: 5px;
     outline: none;
     border: none;
@@ -144,7 +144,7 @@ body::after {
 }
 
 .product-details .btn .buy {
-    background-color: rgb(144, 171, 238);
+    background-color: rgb(0, 0, 0);
     font-weight: bold;
 }
 
@@ -201,13 +201,13 @@ body::after {
 
 .mail {
     font-size: 1rem;
-    color:rgb(20, 43, 220);
+    color:rgb(255, 255, 255);
     border-radius: 5px;
     outline: none;
     border: none;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(144, 171, 238);
+    background-color: rgb(0, 0, 0);
     font-weight: bold;
     display: inline-block;
     padding: 0.625rem 1.25rem;
@@ -228,10 +228,10 @@ body::after {
     display: flex;
     height: 30rem;
     width: 40rem;
-    border: 2px solid rgb(0, 149, 255);
+    border: 2px solid rgb(0, 0, 0);
     border-radius: 5px;
     
-    background-color: rgb(249, 249, 249);
+    background-color: rgb(255, 255, 255);
 }
 
 .schedule {

@@ -1,35 +1,23 @@
-.hero {
-    background-color: rgb(255, 255, 255);
-}
-
-.logo {
-    width: 150px;
-}
-
-.main-character {
-    background-color: rgb(1, 1, 1)
-}
-
-.technologies {
-    background-color: rgb(255, 255, 255);
+.character {
+    background-color: rgb(90, 90, 90);
+    background-image: url("images/background22.jpg") ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(255, 255, 255);
 }
 
 .heading-line {
-    background-color: rgb(0, 0, 0);
-    width: 200px;
-    height: 3px;
-}
-
-.contacts {
-    background-color: rgb(220, 220, 220);
-}
-
-.footer {
-    background-color: rgb(255, 255, 255);
-}
-
-.heading-line-foot {
-    background-color: rgb(0, 0, 0);
     width: 300px;
     height: 3px;
-}
+    background-color: #ffffff;
+  }
+
+  .retro {
+    background-color: #792065;
+    color: white;
+  }
+
+  .btn-to-send {
+    background-color: #c39630;
+    color: white;
+  }
